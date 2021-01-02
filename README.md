@@ -1,12 +1,13 @@
 # MECO_Vegetation_Strategy
 
 Calculates SAIDI and SAIFI forecasts for multiple vegetation management budgeting scenarios.
+#### Project finished with resulting forecasts delivered to MECO Vegetation Management group
 
 ## Main Contributors from ADA Data Science
 * Goldberg, Andrew ([Andrew.Goldberg@nationalgrid.com](mailto:Andrew.Goldberg@nationalgrid.com))
 * Bryant, Kathryn
 
-## Project finished with resulting forecasts delivered to MECO Vegetation Management group
+
 
 ## Main Contact from business units
 * Moe, Ryan ([Ryan.Moe@nationalgrid.com](mailto:Ryan.Moe@nationalgrid.com)) 
